@@ -156,7 +156,6 @@ int main() {
         str2.ADD(str3);
         str2.out();
         puts("");
-        cout << str2.get_len() << '\n';
     }
     return 0;
 }
